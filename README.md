@@ -8,3 +8,7 @@ https://betterstack.com/
 ## Infrastructure
 
 https://www.cloudflare.com/fr-fr/products/tunnel/
+
+## Pipeline
+
+https://www.updatecli.io/
