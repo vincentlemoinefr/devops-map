@@ -44,6 +44,7 @@ A list of DevOps tools that I use, used, or want to use in the future
 
 - https://www.updatecli.io/
 - https://www.jenkins.io/
+- Github locally : https://nektosact.com/
 
 ## Networking
 
