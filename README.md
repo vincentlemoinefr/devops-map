@@ -17,6 +17,12 @@ A list of DevOps tools that I use, used, or want to use in the future
 - https://github.com/danielmiessler/SecLists
 - https://www.usebruno.com/
 - https://www.postman.com/
+- https://badssl.com/
+- Generate dataset for testing : https://www.mockaroo.com/
+
+## Linting
+
+- https://github.com/marketplace/actions/super-linter
 
 ## Artifacts repository
 
