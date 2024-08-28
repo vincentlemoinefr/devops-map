@@ -10,6 +10,7 @@ A list of DevOps tools that I use, used, or want to use in the future
 - https://github.com/
 - https://gitlab.com/
 - https://bitbucket.org/
+- https://about.gitea.com/
 
 ## Testing
 
@@ -37,6 +38,7 @@ A list of DevOps tools that I use, used, or want to use in the future
 - https://github.com/PierreBeucher/novops
 - https://external-secrets.io/latest/
 - https://docs.aws.amazon.com/secretsmanager/
+- https://github.com/jmgilman/vaultrs/
 
 ## Thrid party SSO
 
